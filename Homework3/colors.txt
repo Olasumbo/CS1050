@@ -1,0 +1,10 @@
+blue
+red
+yellow
+orange
+silver
+black
+white
+green
+purple
+turquise

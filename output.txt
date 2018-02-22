@@ -1,0 +1,3 @@
+The highest amount is 8779.00 in the account 3125
+The lowest  amount is 537.00 in the account 4981
+The average amount is 2992.86
